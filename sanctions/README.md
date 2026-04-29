@@ -4,9 +4,8 @@ Persistent URI namespace for the Sanctions Legislative Implementation Vocabulary
 
 ## Maintainer
 
-- **Name:** Mariam Hadjilouka
+- **Name:** Mariam 
 - **GitHub:** https://github.com/Mariam-the-Solivagus
-- **Email:** mariamhadjilouka@icloud.com
 
 ## Description
 
